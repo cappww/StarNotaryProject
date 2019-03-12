@@ -1,12 +1,12 @@
-1) ERC-721 Token Name
+# 1) ERC-721 Token Name
 
-# StarToken
+StarToken
 
-2) Your ERC-721 Token Symbol
+# 2) ERC-721 Token Symbol
 
-# STT
+STT
 
-3) Version of the Truffle and OpenZeppelin used
+# 3) Version of the Truffle and OpenZeppelin used
 
-# Truffle : v5.0.3
-# OpenZepplin : v6.5.0
+Truffle : v5.0.3
+OpenZepplin : v6.5.0
