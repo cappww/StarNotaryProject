@@ -1,12 +1,3 @@
-# 1) ERC-721 Token Name
+# Star Notary Project
 
-StarToken
-
-# 2) ERC-721 Token Symbol
-
-STT
-
-# 3) Version of the Truffle and OpenZeppelin used
-
-Truffle : v5.0.3
-OpenZepplin : v6.5.0
+This is one of the required projects for the Udacity Blockchain Nanodegree Course. The purpose is to project is to create a notary service for naming stars. Each ERC721 token on this blockchain represents a star along with its name and tokenID.
